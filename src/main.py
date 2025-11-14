@@ -1,6 +1,6 @@
 """Main entry point for the CI/CD pipeline application."""
 
-from src import __version__
+__version__ = "0.1.0"
 
 
 def main():

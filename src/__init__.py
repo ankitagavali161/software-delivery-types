@@ -2,11 +2,9 @@
 
 __version__ = "0.1.0"
 
+from src.main import main
 
-def main():
-    """Entry point for the application."""
-    print("CI/CD Pipeline Application Started")
-
+__all__ = ["__version__", "main"]
 
 if __name__ == "__main__":
     main()
