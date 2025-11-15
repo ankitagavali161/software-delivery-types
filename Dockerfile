@@ -9,4 +9,4 @@ COPY . .
 
 RUN pip install -e .
 
-CMD ["python", "-m", "src.main"]
+CMD ["sh", "-c", "python -m src.main && python -m src.test"]

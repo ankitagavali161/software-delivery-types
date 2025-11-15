@@ -11,12 +11,6 @@ A complete continuous integration and deployment system with:
 - Automated testing pipeline
 - Environment configuration management
 
-## Development Guidelines
-
-- Follow the contribution guidelines in CONTRIBUTING.md
-- Ensure all tests pass before creating pull requests
-- Use conventional commit messages
-- Keep workflows DRY and reusable
 
 ## Useful Commands
 
